@@ -1,0 +1,54 @@
+
+.container {
+    width: 575px;
+    height: 600px;
+    background-color: #969faf;
+    padding-left: 30px;
+   
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+  }
+
+  h1{
+    margin-left: 40px;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+  
+  button {
+    width: 170px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 1px 30px;
+    border-radius: 8px;
+    border: none;
+    color: #212121;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  button:hover{
+    background-color: #F4E869;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
